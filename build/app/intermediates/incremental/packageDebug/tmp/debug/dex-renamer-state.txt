@@ -1,0 +1,4 @@
+#Fri Oct 06 13:44:25 WIB 2023
+base.0=/Users/lintang/Documents/All_Project_Flutter/survey_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
